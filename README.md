@@ -40,15 +40,15 @@ Modifier
 make
 This will generate libft.a, the static library you can include in your C projects.
 
-🧪 Run Tests
+## 🧪 Run Tests
 Add your own test files or use 42's official test tools (e.g. libft-unit-test, war-machine).
 
-✨ Bonus Part
+## ✨ Bonus Part
 Includes additional functions for manipulating singly linked lists:
 
 ft_lstnew, ft_lstadd_front, ft_lstsize, ft_lstdelone, etc.
 
-📚 Skills Learned
+## 📚 Skills Learned
 🔧 C basics (pointers, memory, strings)
 
 🧵 Code organization and modularity
