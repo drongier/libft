@@ -27,3 +27,5 @@ libft/
 ├── ft_lst*.c      # Bonus part: linked list functions
 ├── libft.h        # Function declarations
 ├── Makefile       # Build automation
+
+---
